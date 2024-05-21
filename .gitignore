@@ -136,4 +136,4 @@ dist
 *.key
 
 # build directory 
-build/
+build/*

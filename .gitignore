@@ -134,3 +134,6 @@ dist
 *.crt
 *.cert
 *.key
+
+# build directory 
+build/

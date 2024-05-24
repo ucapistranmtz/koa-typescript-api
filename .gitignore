@@ -137,3 +137,6 @@ dist
 
 # build directory 
 build/*
+
+# selfhosted runner
+actions-runner/
